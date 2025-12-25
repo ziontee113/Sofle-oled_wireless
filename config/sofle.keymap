@@ -116,7 +116,7 @@
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans                     &trans            &trans             &trans     &trans     &trans         &trans
 &trans  &trans  &trans  &trans  &trans  &trans                     &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp MINUS  &kp EQUAL  &kp BACKSLASH  &trans
-&trans  &trans  &trans  &trans  &trans  &trans                     &kp LEFT_ARROW    &kp DOWN           &kp UP     &kp RIGHT  &trans         &trans
+&trans  &trans  &trans  &trans  &trans  &trans                     &kp LEFT_ARROW    &kp DOWN           &kp UP     &kp RIGHT  &kp SPACE      &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans    &trans   &trans            &trans             &trans     &trans     &trans         &trans
                 &trans  &trans  &trans  &trans  &trans    &kp TAB  &mo 5             &trans             &trans     &trans
             >;
