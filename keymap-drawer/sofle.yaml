@@ -245,7 +245,7 @@ layers:
   - ''
   - ''
   symbols:
-  - {t: ▽, type: trans}
+  - '`'
   - F1
   - F2
   - F3
