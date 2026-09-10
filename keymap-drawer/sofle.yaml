@@ -201,7 +201,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 8
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - '['
@@ -214,7 +214,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 7
   - {t: ▽, type: trans}
   - LEFT ARROW
   - DOWN
