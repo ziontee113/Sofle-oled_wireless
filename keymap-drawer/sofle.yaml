@@ -199,11 +199,11 @@ layers:
   - F10
   - F11
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - KP 8
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F13
+  - F14
+  - F15
+  - F16
+  - F17
   - '['
   - ']'
   - '-'
@@ -211,11 +211,11 @@ layers:
   - \
   - F12
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - KP 7
-  - {t: ▽, type: trans}
+  - F18
+  - F19
+  - F20
+  - F21
+  - F22
   - LEFT ARROW
   - DOWN
   - UP
@@ -223,8 +223,8 @@ layers:
   - SPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - F23
+  - F24
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
